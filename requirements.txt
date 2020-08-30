@@ -1,0 +1,7 @@
+Django==3.0.4
+gunicorn==19.9.0
+Pillow==7.0.0
+social-auth-app-django==3.1.0
+django-extensions==2.2.5
+werkzeug==0.16.0
+pyOpenSSL==19.0.0
